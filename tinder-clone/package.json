@@ -1,7 +1,7 @@
 {
-  "name": "youtube-clone",
+  "name": "tinder-clone",
   "version": "1.0.0",
-  "description": "Simple YouTube clone utilizing ReactJS",
+  "description": "Tinder clone utilizing ReactJS with Redux",
   "main": "index.js",
   "repository": "https://github.com/vinaysangawar/udemy-modern-react-with-redux.git",
   "scripts": {

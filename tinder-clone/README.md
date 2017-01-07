@@ -1,4 +1,4 @@
-# YouTube Clone
+# Tinder Clone
 
 ###Getting Started###
 
@@ -10,7 +10,7 @@ Checkout this repo, install dependencies, then start the webpack process with th
 ```
 	> git clone https://github.com/vinaysangawar/udemy-modern-react-with-redux.git
 	> cd udemy-modern-react-with-redux
-    > cd youtube-clone
+	> cd tinder-clone
 	> npm install
 	> npm start
 ```
@@ -18,7 +18,7 @@ Checkout this repo, install dependencies, then start the webpack process with th
 Served at http://localhost:8080
 
 ####Not Familiar with Git?#####
-Click [here](https://github.com/vinaysangawar/udemy-modern-react-with-redux) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Click [here](https://github.com/vinaysangawar/udemy-modern-react-with-redux.git) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 	> npm install
