@@ -1,4 +1,4 @@
-# Tinder Clone
+# Book List
 
 ###Getting Started###
 
@@ -10,7 +10,7 @@ Checkout this repo, install dependencies, then start the webpack process with th
 ```
 	> git clone https://github.com/vinaysangawar/udemy-modern-react-with-redux.git
 	> cd udemy-modern-react-with-redux
-	> cd tinder-clone
+	> cd book-list
 	> npm install
 	> npm start
 ```
